@@ -42,7 +42,7 @@ def get_bedrock_agent_response(question):
         # )
         response = client.invoke_flow(
             flowIdentifier="DO83CXCB8D",
-            flowAliasIdentifier="TSTALIASID",
+            flowAliasIdentifier="ICB9NXUUS5",
             inputs=[
                 {
                     "content": {
